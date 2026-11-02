@@ -2,7 +2,7 @@
 
 A clean, minimal chatbot built with **Python, FastAPI** and an LLM API (**Claude** or **OpenAI**). It keeps conversation context, streams replies word by word, handles errors gracefully, and includes an automated test suite.
 
-<!-- Add a screenshot of a real conversation here: ![Chat screenshot](docs/screenshot.png) -->
+![Chat screenshot](docs/screenshot.png)
 
 ## Features
 
